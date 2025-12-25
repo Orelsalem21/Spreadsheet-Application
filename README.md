@@ -76,10 +76,4 @@ Parser Logic: Validating operator precedence and recursion depth.
 Edge Cases: Testing empty ranges, division by zero, and negative values.
 Logic Gates: Verifying deep nesting of IF conditions.
 Dependency Graph: Ensuring ERR_CYCLE is triggered correctly for circular loops.
-Data Propagation: Verifying that updating one cell correctly updates all dependent cells.
-
-###
-
-Author
-Orel Salem
-Computer Science Student & QA Specialist
+Data Propagation: Verifying that updating one cell correctly updates all dependent cells
